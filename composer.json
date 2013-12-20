@@ -1,16 +1,16 @@
 {
-    "name":        "slimcontroller/slimcontroller",
+    "name":        "standart/slimcontroller",
     "version":     "0.3.0",
     "type":        "library",
     "description": "Controller extensions for the Slim Framework",
     "keywords":    ["microframework", "controller"],
-    "homepage":    "http://github.com/fortrabbit/slimcontroller",
+    "homepage":    "http://github.com/standart/slimcontroller",
     "license":     "MIT",
     "authors": [
         {
-            "name":     "Ulrich Kautz",
-            "email":    "uk@fortrabbit.de",
-            "homepage": "http://fortrabbit.com/"
+            "name":     "Isaac Sampaio",
+            "email":    "isaac.sampaio@gmail.com",
+            "homepage": "http://www.conhecendoti.com.br/"
         }
     ],
     "require": {
